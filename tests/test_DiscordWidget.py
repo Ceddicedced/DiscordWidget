@@ -25,7 +25,7 @@ def widget():
 def test_init(widget):
     assert widget.id == 209559449533284352
     assert widget.name == "Brotox-Community"
-    assert widget.instant_invite == "https://discord.com/invite/T8EBPnvp"
+    assert widget.instant_invite == "https://discord.com/invite/M5mjdErc"
 
 
 def test_repr(widget):
